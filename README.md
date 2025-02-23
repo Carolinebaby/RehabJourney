@@ -1,7 +1,7 @@
 # RehabJourney
 康途同行，简易版远程康复平台
 
-项目文档: [doc/康途同行网站设计文档.md]
+项目文档: [康途同行网站设计文档.md](https://github.com/Carolinebaby/RehabJourney/doc/康途同行网站设计文档.md)
 
 项目结构：
 
