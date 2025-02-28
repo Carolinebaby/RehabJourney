@@ -1,5 +1,7 @@
 # RehabJourney
-康途同行，简易版远程康复平台
+2024年秋季学期数据库系统原理课程大作业
+
+## 康途同行，简易版远程康复平台
 
 架构：Python + Django + CSS/JS/HTML
 
